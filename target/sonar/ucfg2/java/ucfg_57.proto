@@ -1,41 +1,0 @@
-
-ncom.pedro.logservice.service.LogService#save(Lcom/pedro/logservice/model/Log;)Lcom/pedro/logservice/model/Log;—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java! !("paramAnnotations*
-paramAnnotations—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java! !(ð
-í
-—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java   (
-%2"
-__annotate*
-java.lang.Override*'
-%
-logcom.pedro.logservice.model.LogÚ
-×
-—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java! !(%
-logcom.pedro.logservice.model.Log"__annotation*
-
-%2*
-1*â
-1—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java" "(˜
-•
-—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java" "(3
-%0-com.pedro.logservice.repository.LogRepository"__id*>*<)
-'com.pedro.logservice.service.LogService"
-logRepositoryÿü
-—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java" "(&
-%1S"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*5
-3
-%0-com.pedro.logservice.repository.LogRepository*'
-%
-logcom.pedro.logservice.model.Log2save(Ljava/lang/Object;)"¥
-—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java" "('	
-
-%1S:%
-logcom.pedro.logservice.model.LogB+)
-'com.pedro.logservice.service.LogService

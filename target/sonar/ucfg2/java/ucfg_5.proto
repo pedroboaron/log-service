@@ -1,16 +1,16 @@
 
-:com.pedro.logservice.model.Log#getAcao()Ljava/lang/String;é
-ÉC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\model\Log.java$ $("1*•
-1é
-ÉC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\model\Log.java% %(‡
-›
-é
-ÉC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\model\Log.java% %(
-%0java.lang.String"__id*,** 
-com.pedro.logservice.model.Log"
-acao"´
-é
-ÉC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\model\Log.java% %(
-
-%0java.lang.StringB" 
+=com.pedro.logservice.model.Log#getIdUser()Ljava/lang/Integer;ç
+ÇC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\model\Log.java! !("1*¶
+1ç
+ÇC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\model\Log.java" "(‚
+ﬂ
+ç
+ÇC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\model\Log.java" "(
+%0java.lang.Integer"__id*.*, 
+com.pedro.logservice.model.Log"
+idUser"´
+ç
+ÇC:\Users\pedro\OneDrive\√Årea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\model\Log.java" "(
+
+%0java.lang.IntegerB" 
 com.pedro.logservice.model.Log

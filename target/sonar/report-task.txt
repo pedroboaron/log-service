@@ -3,5 +3,5 @@ projectKey=pedroboaron_log-service
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.2823
 dashboardUrl=https://sonarcloud.io/dashboard?id=pedroboaron_log-service
-ceTaskId=AW6KzDCTjiXgrDGkP5Xz
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW6KzDCTjiXgrDGkP5Xz
+ceTaskId=AW6K0KYgjiXgrDGkP5YA
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW6K0KYgjiXgrDGkP5YA

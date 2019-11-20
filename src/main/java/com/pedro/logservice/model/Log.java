@@ -10,17 +10,14 @@ public class Log {
     @Column(name = "id_log", nullable = false)
     private Integer id;
 
-    @ManyToOne
-    @JoinColumn(name = "id_user")
-    private Usuario user;
+    @Column(name = "id_user", nullable = false)
+    private Integer idUser;
 
-    @ManyToOne
-    @JoinColumn(name = "id_cartao_usuario")
-    private CartaoUsuario cartaoUsuario;
+    @Column(name = "id_cartao")
+    private Integer idCartao;
 
-    @ManyToOne
-    @JoinColumn(name = "id_requisicao")
-    private Pagamento pagamento;
+    @Column(name = "id_requisicao")
+    private Integer idRequisicao;
 
     @Column(name = "acao", nullable = false)
      private String acao;
@@ -33,6 +30,30 @@ public class Log {
         this.id = id;
     }
 
+    public Integer getIdUser() {
+        return idUser;
+    }
+
+    public void setIdUser(Integer idUser) {
+        this.idUser = idUser;
+    }
+
+    public Integer getIdCartao() {
+        return idCartao;
+    }
+
+    public void setIdCartao(Integer idCartao) {
+        this.idCartao = idCartao;
+    }
+
+    public Integer getIdRequisicao() {
+        return idRequisicao;
+    }
+
+    public void setIdRequisicao(Integer idRequisicao) {
+        this.idRequisicao = idRequisicao;
+    }
+
     public String getAcao() {
         return acao;
     }
@@ -40,30 +61,4 @@ public class Log {
     public void setAcao(String acao) {
         this.acao = acao;
     }
-
-    public Usuario getUser() {
-        return user;
-    }
-
-    public void setUser(Usuario user) {
-        this.user = user;
-    }
-
-    public CartaoUsuario getCartaoUsuario() {
-        return cartaoUsuario;
-    }
-
-    public void setCartaoUsuario(CartaoUsuario cartaoUsuario) {
-        this.cartaoUsuario = cartaoUsuario;
-    }
-
-    public Pagamento getPagamento() {
-        return pagamento;
-    }
-
-    public void setPagamento(Pagamento pagamento) {
-        this.pagamento = pagamento;
-    }
-
-
 }

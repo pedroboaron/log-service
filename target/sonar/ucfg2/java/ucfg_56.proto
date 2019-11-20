@@ -1,41 +1,0 @@
-
-com.pedro.logservice.service.LogService#findAll(Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java ("paramAnnotations*Ÿ
-paramAnnotations—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java (/ÿ
-ü
-—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java (
-%2"
-__annotate*
-java.lang.Override*6
-4
-pageable(org.springframework.data.domain.Pageableé
-æ
-—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java& (.4
-pageable(org.springframework.data.domain.Pageable"__annotation*
-
-%2*
-1*ý
-1—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java (˜
-•
-—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java (3
-%0-com.pedro.logservice.repository.LogRepository"__id*>*<)
-'com.pedro.logservice.service.LogService"
-logRepository÷ô
-—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java (.*
-%1$org.springframework.data.domain.Page"‡com.pedro.logservice.repository.LogRepository#findAll(Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;*5
-3
-%0-com.pedro.logservice.repository.LogRepository*6
-4
-pageable(org.springframework.data.domain.Pageable23findAll(Lorg/springframework/data/domain/Pageable;)"È
-—
-ŒC:\Users\pedro\OneDrive\Ãrea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\service\LogService.java (/,
-*
-%1$org.springframework.data.domain.Page:4
-pageable(org.springframework.data.domain.PageableB+)
-'com.pedro.logservice.service.LogService
