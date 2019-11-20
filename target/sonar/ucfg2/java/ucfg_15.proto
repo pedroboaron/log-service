@@ -1,0 +1,41 @@
+
+com.pedro.logservice.service.LogService#findAll(Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;–
+‹C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\service\LogService.java ("paramAnnotations*œ
+paramAnnotations–
+‹C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\service\LogService.java (/þ
+û
+–
+‹C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\service\LogService.java (
+%2"
+__annotate*
+java.lang.Override*6
+4
+pageable(org.springframework.data.domain.Pageableè
+å
+–
+‹C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\service\LogService.java& (.4
+pageable(org.springframework.data.domain.Pageable"__annotation*
+
+%2*
+1*ù
+1–
+‹C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\service\LogService.java (—
+”
+–
+‹C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\service\LogService.java (3
+%0-com.pedro.logservice.repository.LogRepository"__id*>*<)
+'com.pedro.logservice.service.LogService"
+logRepositoryöó
+–
+‹C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\service\LogService.java (.*
+%1$org.springframework.data.domain.Page"‡com.pedro.logservice.repository.LogRepository#findAll(Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;*5
+3
+%0-com.pedro.logservice.repository.LogRepository*6
+4
+pageable(org.springframework.data.domain.Pageable23findAll(Lorg/springframework/data/domain/Pageable;)"Ç
+–
+‹C:\Users\pedro\OneDrive\Ãrea de Trabalho\microsservicos-individuais\log-service\src\main\java\com\pedro\logservice\service\LogService.java (/,
+*
+%1$org.springframework.data.domain.Page:4
+pageable(org.springframework.data.domain.PageableB+)
+'com.pedro.logservice.service.LogService
