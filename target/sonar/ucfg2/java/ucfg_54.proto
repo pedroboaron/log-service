@@ -1,0 +1,295 @@
+
+–com.pedro.logservice.controller.LogController#save(Ljava/lang/Integer;Ljava/lang/Integer;Ljava/lang/Integer;Ljava/lang/String;Ljavax/servlet/http/HttpServletResponse;)Lorg/springframework/http/ResponseEntity;ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java& &(#"paramAnnotations*å
+paramAnnotationsù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java&# *(Aó
+î
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java% %(
+%25"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*&
+$
+idCartaoUsuariojava.lang.Integerò
+ï
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java&$ &(D
+%26"
+__annotate*86
+4org.springframework.web.bind.annotation.RequestParam*&
+$
+idCartaoUsuariojava.lang.IntegerÈ
+Ê
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java&M &(\$
+idCartaoUsuariojava.lang.Integer"__annotation*
+
+%25*
+
+%26î
+ë
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java% %(
+%27"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*#
+!
+idRequisicaojava.lang.Integerï
+í
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java'$ '(A
+%28"
+__annotate*86
+4org.springframework.web.bind.annotation.RequestParam*#
+!
+idRequisicaojava.lang.IntegerÊ
+„
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java'J '(V!
+idRequisicaojava.lang.Integer"__annotation*
+
+%27*
+
+%28é
+ã
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java% %(
+%29"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*
+
+idUserjava.lang.Integerè
+å
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java($ ((;
+%30"
+__annotate*86
+4org.springframework.web.bind.annotation.RequestParam*
+
+idUserjava.lang.Integer‡
+›
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java(D ((J
+idUserjava.lang.Integer"__annotation*
+
+%29*
+
+%30ã
+à
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java% %(
+%31"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*
+
+acaojava.lang.Stringå
+â
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java)$ )(9
+%32"
+__annotate*86
+4org.springframework.web.bind.annotation.RequestParam*
+
+acaojava.lang.String›
+⁄
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java)A )(E
+acaojava.lang.String"__annotation*
+
+%31*
+
+%32•
+¢
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java% %(
+%33"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*4
+2
+response&javax.servlet.http.HttpServletResponseÓ
+Î
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java*8 *(@2
+response&javax.servlet.http.HttpServletResponse"__annotation*
+
+%33*
+1*ëK
+1ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java+ +(ÈÊ
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java+ +($
+%0com.pedro.logservice.model.Log"com.pedro.logservice.model.Log˚
+¯
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java+ +(
+%1"(com.pedro.logservice.model.Log#<init>()V*&
+$
+%0com.pedro.logservice.model.Log˘
+ˆ
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java+ +(&
+savecom.pedro.logservice.model.Log"__id*&
+$
+%0com.pedro.logservice.model.Log∏
+µ
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java, ,(5=
+%27com.pedro.logservice.repository.CartaoUsuarioRepository"__id*N*L/
+-com.pedro.logservice.controller.LogController"
+cartaoUsuarioRepository©¶
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java, ,(O
+%3java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*?
+=
+%27com.pedro.logservice.repository.CartaoUsuarioRepository*&
+$
+idCartaoUsuariojava.lang.Integer2findById(Ljava/lang/Object;)‘—
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java, ,(\.
+%4(com.pedro.logservice.model.CartaoUsuario"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%3java.util.Optional*
+""2orElse(Ljava/lang/Object;)ß§
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java, ,(]
+
+%5void"\com.pedro.logservice.model.Log#setCartaoUsuario(Lcom/pedro/logservice/model/CartaoUsuario;)V*(
+&
+savecom.pedro.logservice.model.Log*0
+.
+%4(com.pedro.logservice.model.CartaoUsuario2<setCartaoUsuario(Lcom/pedro/logservice/model/CartaoUsuario;)∞
+≠
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java- -(-9
+%63com.pedro.logservice.repository.PagamentoRepository"__id*J*H/
+-com.pedro.logservice.controller.LogController"
+pagamentoRepository¢ü
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java- -(D
+%7java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*;
+9
+%63com.pedro.logservice.repository.PagamentoRepository*#
+!
+idRequisicaojava.lang.Integer2findById(Ljava/lang/Object;)–Õ
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java- -(Q*
+%8$com.pedro.logservice.model.Pagamento"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%7java.util.Optional*
+""2orElse(Ljava/lang/Object;)ìê
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java- -(R
+
+%9void"Tcom.pedro.logservice.model.Log#setPagamento(Lcom/pedro/logservice/model/Pagamento;)V*(
+&
+savecom.pedro.logservice.model.Log*,
+*
+%8$com.pedro.logservice.model.Pagamento24setPagamento(Lcom/pedro/logservice/model/Pagamento;)≠
+™
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java. .(&8
+%101com.pedro.logservice.repository.UsuarioRepository"__id*H*F/
+-com.pedro.logservice.controller.LogController"
+usuarioRepositoryúô
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java. .(7
+%11java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*:
+8
+%101com.pedro.logservice.repository.UsuarioRepository*
+
+idUserjava.lang.Integer2findById(Ljava/lang/Object;)–Õ
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java. .(D)
+%12"com.pedro.logservice.model.Usuario"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%11java.util.Optional*
+""2orElse(Ljava/lang/Object;)ÖÇ
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java. .(E
+%13void"Mcom.pedro.logservice.model.Log#setUser(Lcom/pedro/logservice/model/Usuario;)V*(
+&
+savecom.pedro.logservice.model.Log*+
+)
+%12"com.pedro.logservice.model.Usuario2-setUser(Lcom/pedro/logservice/model/Usuario;)–Õ
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java/ /(
+%14void";com.pedro.logservice.model.Log#setAcao(Ljava/lang/String;)V*(
+&
+savecom.pedro.logservice.model.Log*
+
+acaojava.lang.String2setAcao(Ljava/lang/String;)ú
+ô
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java0 0(.
+%15'com.pedro.logservice.service.LogService"__id*A*?/
+-com.pedro.logservice.controller.LogController"
+
+logServiceæª
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java0 0(%
+%16com.pedro.logservice.model.Log"ncom.pedro.logservice.service.LogService#save(Lcom/pedro/logservice/model/Log;)Lcom/pedro/logservice/model/Log;*0
+.
+%15'com.pedro.logservice.service.LogService*(
+&
+savecom.pedro.logservice.model.Log2&save(Lcom/pedro/logservice/model/Log;)©
+¶
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java1 1(<
+%175org.springframework.context.ApplicationEventPublisher"__id*@*>/
+-com.pedro.logservice.controller.LogController"
+	publisher´®
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java1F 1(R
+%18java.lang.Integer"9com.pedro.logservice.model.Log#getId()Ljava/lang/Integer;*(
+&
+savecom.pedro.logservice.model.Log2getId()àÖ
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java1# 1(54
+%19-com.pedro.logservice.event.RecursoCriadoEvent"-com.pedro.logservice.event.RecursoCriadoEventÓ
+Î
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java1 1(S
+%20"Ñcom.pedro.logservice.event.RecursoCriadoEvent#<init>(Ljava/lang/Object;Ljavax/servlet/http/HttpServletResponse;Ljava/lang/Integer;)V*6
+4
+%19-com.pedro.logservice.event.RecursoCriadoEvent*1/
+-com.pedro.logservice.controller.LogController*4
+2
+response&javax.servlet.http.HttpServletResponse*
+
+%18java.lang.Integer€ÿ
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java1 1(T
+%21void"sorg.springframework.context.ApplicationEventPublisher#publishEvent(Lorg/springframework/context/ApplicationEvent;)V*>
+<
+%175org.springframework.context.ApplicationEventPublisher*6
+4
+%19-com.pedro.logservice.event.RecursoCriadoEvent2<publishEvent(Lorg/springframework/context/ApplicationEvent;)›
+⁄
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java2% 2(7*
+%22#org.springframework.http.HttpStatus"__id*
+""«
+ƒ
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java2 2(8:
+%233org.springframework.http.ResponseEntity$BodyBuilder"äorg.springframework.http.ResponseEntity#status(Lorg/springframework/http/HttpStatus;)Lorg/springframework/http/ResponseEntity$BodyBuilder;*+")
+'org.springframework.http.ResponseEntity*,
+*
+%22#org.springframework.http.HttpStatusÃ…
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java2 2(C.
+%24'org.springframework.http.ResponseEntity"uorg.springframework.http.ResponseEntity$BodyBuilder#body(Ljava/lang/Object;)Lorg/springframework/http/ResponseEntity;*<
+:
+%233org.springframework.http.ResponseEntity$BodyBuilder*(
+&
+savecom.pedro.logservice.model.Log2body(Ljava/lang/Object;)"“
+ù
+íC:\Users\pedro\OneDrive\√Årea de Trabalho\microservicos-compartilhado\log-service\src\main\java\com\pedro\logservice\controller\LogController.java2 2(D0
+.
+%24'org.springframework.http.ResponseEntity:$
+idCartaoUsuariojava.lang.Integer:!
+idRequisicaojava.lang.Integer:
+idUserjava.lang.Integer:
+acaojava.lang.String:2
+response&javax.servlet.http.HttpServletResponseB1/
+-com.pedro.logservice.controller.LogController
